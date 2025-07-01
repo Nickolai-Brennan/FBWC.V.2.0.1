@@ -1,16 +1,12 @@
-Here is your FBWC Phase 1 Full Breakdown in Markdown format with each top-level task broken into 5 subtasks:
+# Master Task List 
+## 📋 FBWC Phase 1 – Master Task List
 
 
 ---
 
-📋 FBWC Phase 1 – Expanded Task Breakdown (Markdown)
+### **1. Write Full League Rules & Constitution**
 
-
----
-
-1. Write Full League Rules & Constitution
-
-🧱 Subcategory: League Format Structure
+#### 🧱 Subcategory: League Format Structure
 
 [ ] Step 1: Research optimal number of leagues for bracket flow
 
@@ -23,7 +19,7 @@ Here is your FBWC Phase 1 Full Breakdown in Markdown format with each top-level 
 [ ] Step 5: Create visual bracket map for docs
 
 
-⚖️ Subcategory: Playoff Structure & Tiebreakers
+#### ⚖️ Subcategory: Playoff Structure & Tiebreakers
 
 [ ] Step 1: Decide playoff size and duration (weeks)
 
@@ -36,7 +32,7 @@ Here is your FBWC Phase 1 Full Breakdown in Markdown format with each top-level 
 [ ] Step 5: Add playoff/tiebreaker rules to rulebook
 
 
-💰 Subcategory: Prize & Donation Policy
+#### 💰 Subcategory: Prize & Donation Policy
 
 [ ] Step 1: Confirm payout plan ($250 ticket, entry)
 
@@ -48,13 +44,10 @@ Here is your FBWC Phase 1 Full Breakdown in Markdown format with each top-level 
 
 [ ] Step 5: Publish prize chart
 
-
-
 ---
+### **2. Build Knowledge Base & Glossary**
 
-2. Build Knowledge Base & Glossary
-
-📚 Subcategory: Glossary of Terms
+#### 📚 Subcategory: Glossary of Terms
 
 [ ] Step 1: Export full Fantrax scoring glossary
 
@@ -67,7 +60,7 @@ Here is your FBWC Phase 1 Full Breakdown in Markdown format with each top-level 
 [ ] Step 5: Link glossary to main docs
 
 
-❓ Subcategory: FAQ Section
+#### ❓ Subcategory: FAQ Section
 
 [ ] Step 1: Brainstorm top 20 questions
 
@@ -79,13 +72,11 @@ Here is your FBWC Phase 1 Full Breakdown in Markdown format with each top-level 
 
 [ ] Step 5: Convert to webpage and PDF
 
-
-
 ---
 
-3. Design Scoring System (7x7)
+### 3. Design Scoring System (7x7)
 
-⚾ Subcategory: Hitting Categories
+##### ⚾ Subcategory: Hitting Categories
 
 [ ] Step 1: Choose 7 hitting categories (OPS, xOBP, etc.)
 
@@ -240,4 +231,188 @@ Here is your FBWC Phase 1 Full Breakdown in Markdown format with each top-level 
 
 ---
 
-Would you like this saved as a .md file or directly copied into your working documentation system (e.g., Notion, GitHub, or WordPress)?
+Great — let’s continue the Phase 1 Markdown breakdown with the next 10 categories that round out the phase:
+
+
+---
+
+11. Competitive Landscape Audit
+
+🔍 Subcategory: Fantasy League Benchmarking
+
+[ ] Step 1: List top 5 fantasy tournaments (TGFBI, NFBC, etc.)
+
+[ ] Step 2: Research prize, format, rules, entry method
+
+[ ] Step 3: Compare to FBWC strengths/weaknesses
+
+[ ] Step 4: Write 1-page competitive comparison summary
+
+[ ] Step 5: Store in internal reference folder
+
+
+
+---
+
+12. Naming Conventions & Terminology
+
+🏷️ Subcategory: Internal Vocabulary
+
+[ ] Step 1: List terms used (e.g., Q-League, VIP Ticket)
+
+[ ] Step 2: Standardize capitalization and abbreviations
+
+[ ] Step 3: Create a terminology reference doc
+
+[ ] Step 4: Apply naming to folders, roles, logos
+
+[ ] Step 5: Embed glossary link in onboarding docs
+
+
+
+---
+
+13. Fantrax Compatibility Check
+
+🧪 Subcategory: Platform Support Validation
+
+[ ] Step 1: Test sandbox league with full FBWC scoring
+
+[ ] Step 2: Confirm availability of all advanced stats (xOBP, QA4, SVH3, etc.)
+
+[ ] Step 3: Identify scoring gaps or calculation bugs
+
+[ ] Step 4: Document workarounds or scoring approximations
+
+[ ] Step 5: Save results to DevOps folder
+
+
+
+---
+
+14. File Backup & Redundancy
+
+💾 Subcategory: File Security
+
+[ ] Step 1: Turn on auto-backup to Google Drive / GitHub
+
+[ ] Step 2: Create backup folders: /Backups/Phase1
+
+[ ] Step 3: Set calendar reminders to duplicate weekly
+
+[ ] Step 4: Create read-only mirror of key files
+
+[ ] Step 5: Write “recovery plan” if file loss occurs
+
+
+
+---
+
+15. Phase 1 Review Checklist
+
+✅ Subcategory: Internal Milestone Scorecard
+
+[ ] Step 1: Build checklist of all Phase 1 deliverables
+
+[ ] Step 2: Add status columns: Not Started / In Progress / ✅ Done
+
+[ ] Step 3: Assign team members for sign-off
+
+[ ] Step 4: Color code by readiness level
+
+[ ] Step 5: Archive checklist and publish Phase 2 handoff
+
+
+
+---
+
+16. Metadata & File Tagging
+
+🧠 Subcategory: Version Tracking
+
+[ ] Step 1: Add version tags to all rulebook/doc files (v1.0, v1.1)
+
+[ ] Step 2: Include author initials and date in filenames
+
+[ ] Step 3: Create metadata key reference (what each tag means)
+
+[ ] Step 4: Apply tags to league sheets (per Q-league)
+
+[ ] Step 5: Save metadata index in central doc hub
+
+
+
+---
+
+17. Legal / Participation Disclaimer
+
+⚖️ Subcategory: Entry Terms
+
+[ ] Step 1: Draft 3-sentence legal disclaimer for Google Forms
+
+[ ] Step 2: Add clause for no liability or legal disputes
+
+[ ] Step 3: Include payout + entry risk terms
+
+[ ] Step 4: Add to onboarding and invite documents
+
+[ ] Step 5: Review with legal-minded advisor (optional)
+
+
+
+---
+
+18. Phase 1 Asset Index
+
+🗃️ Subcategory: Master Asset Tracker
+
+[ ] Step 1: Create Sheet with all doc names + links
+
+[ ] Step 2: Label category (Scoring, Rules, Design, Promo)
+
+[ ] Step 3: Add “Last Edited” and “Owner” columns
+
+[ ] Step 4: Pin asset sheet to top of Phase 1 folder
+
+[ ] Step 5: Revisit and update once per week
+
+
+
+---
+
+19. Test Player Journey Simulation
+
+👤 Subcategory: UX Validation
+
+[ ] Step 1: Sign up as if you were a new manager
+
+[ ] Step 2: Track all steps: Form → Email → Discord → Fantrax
+
+[ ] Step 3: Note any confusion, missing instructions, or friction
+
+[ ] Step 4: Rate each step on clarity (1–5)
+
+[ ] Step 5: Patch weak spots before real onboarding
+
+
+
+---
+
+20. Internal Notes & Decision Log
+
+📝 Subcategory: Admin Decision Record
+
+[ ] Step 1: Create “FBWC_Notes.md” or Sheet
+
+[ ] Step 2: Log date + decision in format:
+
+✔️ Mar 4 – Decided to use QA4 over QS
+
+
+[ ] Step 3: Store notes by section (scoring, docs, promo)
+
+[ ] Step 4: Add log link to project dashboard
+
+[ ] Step 5: Update minimum 2× per week during Phase 1
+
+
